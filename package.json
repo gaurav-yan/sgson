@@ -1,0 +1,14 @@
+{
+  "name": "sgson",
+  "version": "1.0.0",
+  "devDependencies": {
+    "@angular-devkit/build-angular": "^16.2.0",
+    "@angular/cli": "^16.2.0",
+    "@angular/common": "^16.2.1",
+    "@angular/core": "^16.2.1",
+    "@angular/platform-browser-dynamic": "^16.2.1",
+    "@cypress/xpath": "^2.0.3",
+    "cypress": "^12.17.4",
+    "typescript": "*"
+  }
+}

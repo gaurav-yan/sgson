@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "lib": ["es5", "dom"],
+    "types": ["cypress", "node"],
+    "baseUrl": "https://connecttestingweb-lrsb4.ondigitalocean.app/"
+  },
+  "include": ["**/*.ts", "cypress.d.ts"]
+}
